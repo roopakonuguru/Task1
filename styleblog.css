@@ -67,8 +67,8 @@ body{
     .blog-container{
         /* background-color: blueviolet; */
         /* height: 100vh; */
-        margin: 0px 170px;
-        padding: 10px;
+        margin: 0px 50px;
+        padding: auto;
         box-shadow: inset 20px 20px 60px #bebebe,
                 inset -20px -20px 60px #ffffff;
     }
@@ -110,6 +110,7 @@ body{
 @media(max-width : 600px){
     .blog-container{
         font-weight: bold;
+        margin: 0px 50px;
         /* background-color: blueviolet; */
         /* height: 100vh; */
         /* background-color: rgb(183, 152, 233); */
